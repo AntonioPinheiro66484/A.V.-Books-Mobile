@@ -1,12 +1,12 @@
 import React from "react-native";
 import { StyleSheet, Text, View } from 'react-native';
 
-const Footer =()=>{
+const Header =()=>{
     return(
         <View>
-            <Text>Footer</Text>
+            <Text>Header</Text>
         </View>
 
     )
 }
-export default Footer
+export default Header
